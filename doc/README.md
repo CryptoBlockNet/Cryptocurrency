@@ -3,7 +3,7 @@ Rim Core
 
 Setup
 ---------------------
-[Rim Core](http://rim.org/wallet) is the original Rim client and it builds the backbone of the network. However, it downloads and stores the entire history of Rim transactions; depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more. Thankfully you only have to do this once.
+[Rim Core](http://rimecoin.io) is the original Rim client and it builds the backbone of the network. However, it downloads and stores the entire history of Rim transactions; depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more. Thankfully you only have to do this once.
 
 Running
 ---------------------
@@ -56,7 +56,7 @@ The Rim repo's [root README](https://github.com/Rim-Project/Rim/blob/master/READ
 ### Resources
 
 * Discuss on the [BitcoinTalk](https://bitcointalk.org/index.php?topic=1262920.0) or the [Rim](http://forum.rim.org/) forum.
-* Join the [Rim-Dev](https://rim-dev.slack.com/) Slack group ([Sign-Up](https://rim-dev.herokuapp.com/)).
+* Join the [Rim-Dev](https://rimecoin.slack.com/) Slack group ([Sign-Up](https://rim-dev.herokuapp.com/)).
 
 ### Miscellaneous
 - [Assets Attribution](assets-attribution.md)
@@ -68,4 +68,4 @@ License
 ---------------------
 Distributed under the [MIT/X13 software license](http://www.opensource.org/licenses/mit-license.php).
 This product includes software developed by the OpenSSL Project for use in the [OpenSSL Toolkit](https://www.openssl.org/). This product includes
-cryptographic software written by Eric Young ([eay@cryptsoft.com](mailto:eay@cryptsoft.com)), and UPnP software written by Thomas Bernard.
+cryptographic software written by Eric Young ([eay@cryptsoft.com](mailto:eay@cryptsoft.com)), and UPnP software written by Rimecoin core developers.
