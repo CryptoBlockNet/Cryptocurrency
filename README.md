@@ -11,8 +11,9 @@ Rime Coin (RIM) is a sustainable cryptocurrency. It is a decentralized, peer-to-
   with a collateral of 50,000 RIM.
 
 
-### 
+### Coin Specification
 | **Coin Specs**              | **Content**     |
+|-----------------------------|-----------------|
 | Algorithm                   | X13             |
 | Block Time                  | 120 Seconds     |
 | Premine                     | 166,500,000 RIM |
